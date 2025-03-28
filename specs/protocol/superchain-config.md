@@ -138,4 +138,4 @@ will not revert if the pausable flag is already set to zero.
 
 <!-- references -->
 
-[iSUPC-001]: #isupc-001-the-guardian-and-pause-deputy-must-be-able-to-trigger-the-pause-mechanism
+[iSUPC-001]: #isupc-001-the-guardian-and-pause-deputy-must-9be-able-to-trigger-the-pause-mechanism
